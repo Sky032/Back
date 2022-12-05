@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "omelet",
+    "price": "110",
+    "thumbnail": "categoria 1"
+  },
+  {
+    "id": 2,
+    "title": "producto 444444",
+    "price": "100",
+    "thumbnail": "categoria 2"
+  },
+  {
+    "title": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": 3
+  },
+  {
+    "title": "aa",
+    "price": "aaa",
+    "thumbnail": "aaa",
+    "id": 4
+  },
+  {
+    "title": "tortilla de papa",
+    "price": "220",
+    "thumbnail": "categoria 5",
+    "id": 5
+  },
+  {
+    "title": "asdas",
+    "price": "123",
+    "thumbnail": "asda",
+    "id": 6
+  }
+]
